@@ -22,7 +22,7 @@ const tableName = 'qa-live-tocoma-FeedFilter'; // DynamoDB table name
 const csvFilePath = 'output.csv'; // File path to write the CSV data
 
 
-const ViewTableName = 'qa-live-tocoma-ExploreViewColumn'; // Replace with your second table name
+const ViewTableName = 'qa-live-tocoma-ExploreViewColumn';
 
 const getViewName = async (Key) => {
 
