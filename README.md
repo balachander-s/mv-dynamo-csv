@@ -16,4 +16,4 @@ npm install
 
 ## Execute Script
 
-node dynamodb-to-csv.js <company> <aws-profile> <region>
+node index.js companyKey aws-profile region
